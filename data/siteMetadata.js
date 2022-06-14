@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
+  title: 'Twitter HiveMind',
+  author: 'Chirag Gupta',
   headerTitle: 'Twitter Hivemind',
-  description: 'A blog created with Next.js and Tailwind.css',
+  description: 'A blog dedicated to awesome Twitter Threads!',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
